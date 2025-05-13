@@ -1,0 +1,137 @@
+[
+    {
+        "review_id": 1,
+        "user_id": 1,
+        "username": "Jeff_Slaven",
+        "phone_id": 1,
+        "rating": 5,
+        "comment": "Absolutely love the Pixel 9 Pro. Smooth and clean UI!",
+        "timestamp": "2025-04-10 09:15:00"
+    },
+    {
+        "review_id": 2,
+        "user_id": 1,
+        "username": "Jeff_Slaven",
+        "phone_id": 2,
+        "rating": 3,
+        "comment": "iPhone 16 is alright, but overpriced for what you get.",
+        "timestamp": "2025-04-12 15:42:00"
+    },
+    {
+        "review_id": 3,
+        "user_id": 1,
+        "username": "Jeff_Slaven",
+        "phone_id": 5,
+        "rating": 4,
+        "comment": "Galaxy S25 Ultra is a beast! Brilliant camera.",
+        "timestamp": "2025-04-14 18:23:00"
+    },
+    {
+        "review_id": 4,
+        "user_id": 2,
+        "username": "Jeffo",
+        "phone_id": 3,
+        "rating": 2,
+        "comment": "iPhone 16 Pro Max feels bulky in the hand.",
+        "timestamp": "2025-04-11 11:05:00"
+    },
+    {
+        "review_id": 5,
+        "user_id": 2,
+        "username": "Jeffo",
+        "phone_id": 4,
+        "rating": 5,
+        "comment": "OPPO Reno12 Pro is insane for the price. Smooth performance!",
+        "timestamp": "2025-04-13 14:50:00"
+    },
+    {
+        "review_id": 6,
+        "user_id": 2,
+        "username": "Jeffo",
+        "phone_id": 1,
+        "rating": 3,
+        "comment": "Pixel 9 Pro is good but battery life could be better.",
+        "timestamp": "2025-04-15 16:30:00"
+    },
+    {
+        "review_id": 7,
+        "user_id": 3,
+        "username": "Lucy",
+        "phone_id": 5,
+        "rating": 5,
+        "comment": "Samsung Galaxy S25 Ultra camera is next level. Love it!",
+        "timestamp": "2025-04-10 13:10:00"
+    },
+    {
+        "review_id": 8,
+        "user_id": 3,
+        "username": "Lucy",
+        "phone_id": 2,
+        "rating": 4,
+        "comment": "iPhone 16 is super fast, Face ID is even better now.",
+        "timestamp": "2025-04-11 17:05:00"
+    },
+    {
+        "review_id": 9,
+        "user_id": 3,
+        "username": "Lucy",
+        "phone_id": 4,
+        "rating": 2,
+        "comment": "Not impressed with OPPO's software updates.",
+        "timestamp": "2025-04-14 19:45:00"
+    },
+    {
+        "review_id": 10,
+        "user_id": 4,
+        "username": "Bonny",
+        "phone_id": 1,
+        "rating": 4,
+        "comment": "Pixel 9 Pro camera is brilliant but a bit slippery to hold.",
+        "timestamp": "2025-04-10 10:25:00"
+    },
+    {
+        "review_id": 11,
+        "user_id": 4,
+        "username": "Bonny",
+        "phone_id": 5,
+        "rating": 5,
+        "comment": "Best phone ever! Samsung smashed it this year.",
+        "timestamp": "2025-04-13 11:30:00"
+    },
+    {
+        "review_id": 12,
+        "user_id": 4,
+        "username": "Bonny",
+        "phone_id": 3,
+        "rating": 3,
+        "comment": "iPhone 16 Pro Max is good but expected more battery life.",
+        "timestamp": "2025-04-15 20:00:00"
+    },
+    {
+        "review_id": 13,
+        "user_id": 5,
+        "username": "Miley",
+        "phone_id": 2,
+        "rating": 5,
+        "comment": "iPhone 16 is a beauty! Smooth, sleek and perfect size.",
+        "timestamp": "2025-04-09 08:00:00"
+    },
+    {
+        "review_id": 14,
+        "user_id": 5,
+        "username": "Miley",
+        "phone_id": 4,
+        "rating": 4,
+        "comment": "OPPO Reno12 Pro punches way above its price range!",
+        "timestamp": "2025-04-12 12:45:00"
+    },
+    {
+        "review_id": 15,
+        "user_id": 5,
+        "username": "Miley",
+        "phone_id": 5,
+        "rating": 5,
+        "comment": "Samsung Galaxy S25 Ultra is hands down the best Android.",
+        "timestamp": "2025-04-14 21:15:00"
+    }
+]

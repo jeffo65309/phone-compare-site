@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "username": "Jeff_Slaven",
+        "email": "jeffo.myles@gmail.com",
+        "password": "1234",
+        "saved_phones": []
+    },
+    {
+        "id": 2,
+        "username": "Jeffo",
+        "email": "jeffo.myles@outlook.com",
+        "password": "$2y$10$6fM82PK7k8TBC9wkndQAE.AvY6wkGv8dGckGdb3xh6UIMS333kknK",
+        "saved_phones": [],
+        "name": "jefferey slaven",
+        "address": "21 Farlow Road, CH424PJ",
+        "dob": "2005-09-11",
+        "bio": "TEST USER DATA",
+        "profile_pic": "",
+        "favourite_phone": "1"
+    },
+    {
+        "id": 3,
+        "username": "Lucy",
+        "email": "Miley.bonny@gmail.com",
+        "password": "$2y$10$mmE4IDh.pM8Og0xqt.he8.hd.Pay9NotHDYOwQUvLSo74r7RsTGRq",
+        "saved_phones": [],
+        "name": "Lucy Price",
+        "address": "21 Farlow Road, CH424PJ",
+        "dob": "11\/09\/1984",
+        "bio": "Test data",
+        "profile_pic": ""
+    },
+    {
+        "id": 4,
+        "username": "Bonny",
+        "email": "example@gmail.com",
+        "password": "$2y$10$XwtxSQ3Vp0QCmJIQW34vp.9k3gkp3HEWu5w1zbRMErazmXdVLPKpu",
+        "saved_phones": [],
+        "name": "bonny slaven",
+        "address": "21 Farlow Road, CH424PJ",
+        "dob": "11\/09\/1984",
+        "bio": "test data",
+        "profile_pic": ""
+    },
+    {
+        "id": 5,
+        "username": "Miley",
+        "email": "example2@gmail.com",
+        "password": "$2y$10$6Cau.rGUZYwKPKRrQzYMDu164A0yZW1s27CoEkDqDbAjdtmR6uiRS",
+        "saved_phones": [],
+        "name": "Miley slaven",
+        "address": "21 Farlow Road, CH424PJ",
+        "dob": "11\/09\/1984",
+        "bio": "Test data",
+        "profile_pic": ""
+    },
+    {
+        "id": 6,
+        "username": "Jeffo1",
+        "email": "example3@gmail.com",
+        "password": "$2y$10$pR2eaFXf9rzY..JheIkr3O4E8JBDeA4SzBiwRyA0oj1Hi5hpwo\/u6",
+        "saved_phones": [],
+        "name": "jefferey slaven",
+        "address": "21 Farlow Road, CH424PJ",
+        "dob": "11\/09\/1984",
+        "bio": "test",
+        "profile_pic": ""
+    }
+]
